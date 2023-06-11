@@ -1,8 +1,10 @@
 # KMeans-Cluster-Analysis
 
 [![](https://img.shields.io/badge/Python-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/K-Means-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-![image](https://github.com/secil-carver/KMeans-Cluster-Analysis/assets/77639654/c0405494-0200-4375-9ebf-96d87f5f9318)
+[![](https://img.shields.io/badge/KMeans-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/SilhoutteVisualizer-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/KElbowVisualizer.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+
 
 ## Research Question
 
