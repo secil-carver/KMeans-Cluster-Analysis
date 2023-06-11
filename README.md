@@ -8,6 +8,10 @@
 ![](https://img.shields.io/static/v1?label=&message=KElbowVisualizer&color=green)
 ![](https://img.shields.io/static/v1?label=&message=SilhoutteVisualizer&color=blue)
 
+
+Identifying specific groups in customer base with K-Means clustering allows us to connect patterns between data elements without labels attached to them. Once these structures are discovered, we can make more informed decisions about our customers.
+
+
 ## Research Question
 
 Can we identify specific groups with patterns in our customer base using the K-Means Clustering method?
