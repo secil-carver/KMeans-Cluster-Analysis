@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Python-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/ML-KMeans-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 [![](https://img.shields.io/badge/Library-Scikitlearn-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/KElbowVisualizer-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/Packages-Yellowbrick-orange?style=for-the-badge)](https://crates.io/crates/redant)
 
 ![](https://img.shields.io/static/v1?label=&message=ML-KMeans&color=green)
 
