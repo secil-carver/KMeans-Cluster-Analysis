@@ -1,5 +1,7 @@
 # KMeans-Cluster-Analysis
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Python`
+
+[![](https://img.shields.io/badge/Python-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 ## Research Question
 
 Can we identify specific groups with patterns in our customer base using the K-Means Clustering method?
