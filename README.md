@@ -1,5 +1,5 @@
 # KMeans-Cluster-Analysis
-![hello](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Python`
 ## Research Question
 
 Can we identify specific groups with patterns in our customer base using the K-Means Clustering method?
