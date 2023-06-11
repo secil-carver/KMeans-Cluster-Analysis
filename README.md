@@ -23,7 +23,13 @@ The clustering technique I used was K-Means clustering. K-Means is an unsupervis
 
 ## Elbow Method
 
-The Elbow Method helps to chose the optimum number of clusters by fitting the model with a range of values for _k_. The chart indicates the best fit at the "elbow" point.
+The Elbow Method helps to chose the optimum number of clusters by fitting the model with a range of values for _k_. The chart indicates the best fit at the "elbow" point as shown in the example below.
 
 ![image](https://github.com/secil-carver/KMeans-Cluster-Analysis/assets/77639654/ad692daa-c437-4b75-acd3-01277c7023a8)
+
+## Silhoutte Method
+
+Visual interpretation of clusters of data. It provides graphical validation of how well each object is classified. The scored assigned determines how well each object lies in its cluster. High average silhoutte indicates good clustering. Numbers close to zero indicates the object lies in the decision boundary between two clusters.
+
+![image](https://github.com/secil-carver/KMeans-Cluster-Analysis/assets/77639654/535e631e-8c98-4b50-93a7-03b15573a7f1)
 
