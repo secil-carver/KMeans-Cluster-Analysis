@@ -5,7 +5,8 @@
 [![](https://img.shields.io/badge/Library-Scikitlearn-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Packages-Yellowbrick-orange?style=for-the-badge)](https://crates.io/crates/redant)
 
-![](https://img.shields.io/static/v1?label=&message=ML-KMeans&color=green)
+![](https://img.shields.io/static/v1?label=&message=KElbowVisualizer&color=green)
+![](https://img.shields.io/static/v1?label=&message=SilhoutteVisualizer&color=blue)
 
 ## Research Question
 
