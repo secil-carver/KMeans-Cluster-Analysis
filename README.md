@@ -23,5 +23,7 @@ The clustering technique I used was K-Means clustering. K-Means is an unsupervis
 
 ## Elbow Method
 
+The Elbow Method helps to chose the optimum number of clusters by fitting the model with a range of values for _k_. The chart indicates the best fit at the "elbow" point.
+
 ![image](https://github.com/secil-carver/KMeans-Cluster-Analysis/assets/77639654/ad692daa-c437-4b75-acd3-01277c7023a8)
 
