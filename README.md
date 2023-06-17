@@ -9,7 +9,7 @@
 ![](https://img.shields.io/static/v1?label=&message=SilhoutteVisualizer&color=blue)
 
 
-Identifying specific groups in customer base with K-Means clustering allows us to connect patterns between data elements without labels attached to them. Once these structures are discovered, we can make more informed decisions about our customers.
+Identifying specific groups in the customer base with K-Means clustering allows us to connect patterns between data elements without labels attached to them. Once these structures are discovered, we can make more informed decisions about our customers.
 
 
 ## Research Question
@@ -27,13 +27,13 @@ The clustering technique I used was K-Means clustering. K-Means is an unsupervis
 
 ## Elbow Method
 
-The Elbow Method helps to chose the optimum number of clusters by fitting the model with a range of values for _k_. The chart indicates the best fit at the "elbow" point as shown in the example below.
+The Elbow Method helps to choose the optimum number of clusters by fitting the model with a range of values for _k_. The chart indicates the best fit at the "elbow" point as shown in the example below.
 
 ![image](https://github.com/secil-carver/KMeans-Cluster-Analysis/assets/77639654/ad692daa-c437-4b75-acd3-01277c7023a8)
 
-## Silhoutte Method
+## Silhouette Method
 
-Visual interpretation of clusters of data. It provides graphical validation of how well each object is classified. The scored assigned determines how well each object lies in its cluster. High average silhoutte indicates good clustering. Numbers close to zero indicates the object lies in the decision boundary between two clusters.
+Visual interpretation of clusters of data. It provides graphical validation of how well each object is classified. The score assigned determines how well each object lies in its cluster. A high average silhouette indicates good clustering. Numbers close to zero indicate the object lies in the decision boundary between two clusters.
 
 ![image](https://github.com/secil-carver/KMeans-Cluster-Analysis/assets/77639654/535e631e-8c98-4b50-93a7-03b15573a7f1)
 
