@@ -5,7 +5,7 @@
    "id": "14120633",
    "metadata": {},
    "source": [
-    "# D212-PA TASK 1: KMEANS CLUSTERING TECHNIQUES"
+    "# KMEANS CLUSTERING TECHNIQUES"
    ]
   },
   {
@@ -13,9 +13,9 @@
    "id": "18849138",
    "metadata": {},
    "source": [
-    "## Part III: Data Preparation\n",
+    "## Data Preparation\n",
     "\n",
-    "### C.3. Data Preparation Steps"
+ 
    ]
   },
   {
@@ -546,7 +546,7 @@
    "id": "eb6bac3c",
    "metadata": {},
    "source": [
-    "Below third party code was taken from scikit. [Source Code](https://www.scikit-yb.org/en/latest/api/cluster/elbow.html#:~:text=The%20elbow%20method%20runs%20k,point%20to%20its%20assigned%20center.)"
+   
    ]
   },
   {
@@ -589,9 +589,8 @@
    "cell_type": "markdown",
    "id": "a196c8ac",
    "metadata": {},
-   "source": [
-    "** Below third party code was taken from scikit. [Source Code](https://www.scikit-yb.org/en/latest/api/cluster/silhouette.html)"
-   ]
+   
+   
   },
   {
    "cell_type": "code",
